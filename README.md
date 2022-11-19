@@ -1,7 +1,8 @@
 # ASL-Recognition-with-Deep-Learning
-Build a convolutional neural network to classify images of letters from American Sign Language.
+Construire un réseau neuronal convolutif pour classer les images de lettres de la langue des signes américaine.
 # Description_de_projet
 La langue des signes américaine (ASL) est la langue principale utilisée par de nombreuses personnes sourdes en Amérique du Nord, et elle est également utilisée par les personnes malentendantes et entendantes. La langue est aussi riche que les langues parlées et utilise des signes faits avec la main, ainsi que des gestes faciaux et des postures corporelles.
+De nombreux progrès récents ont été réalisés dans le développement de systèmes de vision par ordinateur qui traduisent la langue des signes en langue parlée. Cette technologie s'appuie souvent sur des architectures de réseaux neuronaux complexes capables de détecter des modèles subtils dans la vidéo en continu. Cependant, dans un premier temps, pour comprendre comment construire un système de traduction, nous pouvons réduire la taille du problème en traduisant des lettres individuelles, au lieu de phrases.
 # Objectif
 Dans ce projet, nous entraînerons un réseau de neurones convolutifs pour classer des images de lettres ASL. Après avoir chargé, examiné et prétraité les données, nous formerons le réseau et testerons ses performances.
 # Tâches du projet
